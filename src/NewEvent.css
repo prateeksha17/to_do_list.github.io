@@ -1,0 +1,12 @@
+.new-event-model{
+    padding: 2%;
+    margin: 10px 10px 10px 10px;
+    
+    border-radius: 10px;
+    border-style: double;
+    box-shadow: 5px;
+}
+
+label{
+    margin-top: 20px;
+}
